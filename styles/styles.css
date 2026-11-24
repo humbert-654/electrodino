@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300;400;500;600;700&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html{
+    font-size: 62.5%;
+}
+header{
+    /*fondo de color*/
+    background-color:#0B2E4F;
+    /*color de texto*/
+    color:	#F7F9FB;
+}
+h1,h2,h3,h4,h5,h6{
+    /*usando tipografia de google fonts*/ 
+    font-family: "Tinos", sans-serif;
+}
+h1{
+    font-size: 6rem;
+}
+h2{
+    font-size: 5rem;
+}
+h3{
+    font-size: 4rem;
+}
+h4{
+    font-size: 3rem;
+}
+a,p,label{
+    /*usando tipografia de google fonts*/
+    font-family: "Hind Vadodara", sans-serif;
+    font-size: 2rem;
+}
+ul{
+    list-style: none;
+}
+nav ul a{
+    color: #F7F9FB;
+    text-decoration: none;
+}
+main{
+    background-color: #F7F9FB;
+}
+section{
+    color:#2B2F36;
+}
+article{
+    font-family: "Hind Vadodara", sans-serif;
+    color:#2B2F36;
+}
+.buttonPresupuesto{
+    background-color:#FFC300;
+    color:#0B2E4F;
+    font-family: "Tinos", sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+footer{ 
+    background-color: #0B2E4F;
+    color:#F7F9FB;
+}
