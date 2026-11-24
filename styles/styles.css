@@ -1,4 +1,6 @@
+/*Fuente de google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300;400;500;600;700&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*Utilizamos Tinos y Hind Vadodara*/
 
 html{
     font-size: 62.5%;
@@ -41,6 +43,7 @@ main{
     background-color: #F7F9FB;
 }
 section{
+    font-family: "Hind Vadodara", sans-serif;
     color:#2B2F36;
 }
 article{
